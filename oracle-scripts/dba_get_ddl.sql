@@ -1,4 +1,4 @@
-REM Description		: Extracts the DDL statement for the object when the parameters are passed, Object Name and Object Type
+REM Description		: Extracts the DDL statement for the object when the parameters are passed, Object Name and Object Type creates a spool file on location
 
 SET ECHO OFF
 SET HEADING OFF
